@@ -1,15 +1,16 @@
-# Real Time Bus Tracker
+# Title 
 
-This project is one of assignments from MIT xPro MERN Stack course. 
+Real Time Bus Tracker
 
+## Project description
 
-# Project description
-
-This project displays the real time location of a bus. The location is loaded from the public database MBTA.
+This project is one of assignments from MIT xPro MERN Stack course. The goal was to create a simple bus tracking
+website, that would visualize the position of buses from one line. The bus location is loaded from the public 
+database MBTA. Refreshing is being done every 15 sec in order not to get banned by the administrator.
 
 ## How to run 
 
-Just download the project and start **index.html** file.
+Just download the project and start **index.html** file. Then click "RUN" button to start tracking.
 
 ## Roadmap of future improvements
 
