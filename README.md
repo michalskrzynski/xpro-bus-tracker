@@ -16,4 +16,4 @@ It would be nice to add the functionality to switch bus lines. Later it'd be gre
 
 ## License
 
-The project is under MIT license.
+The project is under MIT license. See LICENCE file.
